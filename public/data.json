@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "飲み放題コース", "time": "1時間", "conditional": "2人以上", "price": 1000 },
+    { "id": 2, "name": "料理３品コース", "time": "2時間", "conditional": "4人以上", "price": 3000 },
+    { "id": 3, "name": "料理５品コース", "time": "2時間", "conditional": "4人以上", "price": 5000 },
+    { "id": 4, "name": "ディナーフルコース", "time": "3時間", "conditional": "2人以上", "price": 12000 },
+    { "id": 5, "name": "延長飲み放題", "time": "1時間", "conditional": "４人以上", "price": 1500 }
+  ]
+  
